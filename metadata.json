@@ -1,0 +1,8 @@
+{
+  "name": "Sarthi ",
+  "description": "An AI-powered voice assistant that bridges the gap between underprivileged citizens and government schemes using document OCR and local language support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
